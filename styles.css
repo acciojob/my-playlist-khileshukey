@@ -1,1 +1,33 @@
 /*  your css code here. If applicable */
+body{
+    background-color: rgb(204,204,204);
+    text-align: center;
+}
+#h1{
+    text-align: center;
+}
+#h2{
+    text-align: center;
+}
+#h3{
+    text-align: center;
+}
+#ul{
+    background-color: rgb(255,255,255);
+    padding: 50px;
+    border-radius: 40px;
+    width: 1000px;
+    text-align: center;
+}
+.li{
+    list-style: none;
+    text-decoration-line: none;
+}
+#vd{
+    background-color: rgb(255,255,255);
+    padding: 50px;
+    border-radius: 40px;
+    text-align: center;
+    width: 500px;
+    
+}
